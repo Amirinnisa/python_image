@@ -5,6 +5,7 @@
 import numpy as np
 import argparse
 import cv2
+# amirin kecut
 
 # construct the argument parser and parse the arguments
 ap = argparse.ArgumentParser()
